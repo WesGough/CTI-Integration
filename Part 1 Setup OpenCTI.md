@@ -83,8 +83,10 @@ sudo systemctl start docker.service
 sudo docker-compose up -d
 ```
 
+![1](https://github.com/user-attachments/assets/d2db75f9-5c18-44a4-96e4-62dbe839aa9d)
+
 *Ref 6: Start Docker Service*
 
-7) 
+7) With docker up and running head over to your browser and log in using your Ubuntu Server IP over port 8080.
 
 
